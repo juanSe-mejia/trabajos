@@ -1,0 +1,47 @@
+body{ background-color:bisque;
+    font-family: "Comic Relief" ,system-ui;
+    font-optical-sizing: auto;
+    font-weight: weight;}
+    
+    
+    .Intro{
+      text-align: center;
+      background-color: beige;
+      margin: 50px;
+      padding: auto;
+      border: 5px solid black;
+      border-radius: 20px;
+    
+    }
+    
+    
+    
+    
+    .Información{
+      text-align: center;
+    background-color: beige;
+    margin: 100px;
+    padding: auto;
+    border: 5px solid black;
+    border-radius: 20px;
+    
+    }
+    
+    
+    .Información2{
+      text-align: center;
+      background-color: beige;
+    margin: 100px;
+    padding: auto;
+    border: 5px solid black;
+    border-radius: 20px;
+    }
+    .boton{
+        
+        color:black;
+        font-weight: 5px;
+        font-size: 15px;
+
+      
+    }
+    
